@@ -5,7 +5,7 @@ This project uses an ESP8266 (NodeMCU ESP-12E) to monitor the operation of an **
 The goal is to detect when the feeder motor runs, and send an MQTT alert when it does — enabling remote monitoring or notifications.
 
 ### 📦 Target Device
-Tested with this feeder:
+Tested and developed for this feeder:
 [Closer Pets C500 – 5-Meal Automatic Pet Feeder](https://closerpets.eu/products/five-meal-automatic-pet-feeder-with-digital-timer-c500-1?_pos=1&_sid=ed1502ae5&_ss=r)
 
 ### ⚙️ Features
